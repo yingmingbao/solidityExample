@@ -1,3 +1,5 @@
+https://yeasy.gitbook.io/blockchain_guide/
+
 # 代理投票
 
 ## 需求
